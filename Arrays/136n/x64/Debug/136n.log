@@ -1,0 +1,9 @@
+﻿  136n.cpp
+C:\Users\Danya\source\repos\136n\136n\136n.cpp(57,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Danya\source\repos\136n\136n\136n.cpp(62,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Danya\source\repos\136n\136n\136n.cpp(45,40): warning C4101: element: неиспользованная локальная переменная
+  136n_func.cpp
+C:\Users\Danya\source\repos\136n\136n\136n_func.cpp(28,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Danya\source\repos\136n\136n\136n_func.cpp(79,26): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  136n.vcxproj -> C:\Users\Danya\source\repos\136n\x64\Debug\136n.exe
