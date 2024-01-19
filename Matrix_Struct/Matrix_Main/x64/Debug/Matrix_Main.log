@@ -1,0 +1,32 @@
+﻿  Matrix_Main.cpp
+  Matrix_Struct.cpp
+C:\Users\User\Desktop\OOP\Matrix_Main\Matrix_Main\Matrix_Struct.cpp(278,37): warning C4267: инициализация: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\User\Desktop\OOP\Matrix_Main\Matrix_Main\Matrix_Struct.cpp(278,37): warning C4267: инициализация: преобразование из "size_t" в "const unsigned int"; возможна потеря данных
+C:\Users\User\Desktop\OOP\Matrix_Main\Matrix_Main\Matrix_Struct.cpp(287,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\OOP\Matrix_Main\Matrix_Main\Matrix_Struct.cpp(288,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\OOP\Matrix_Main\Matrix_Main\Matrix_Struct.cpp(298,12): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\OOP\Matrix_Main\Matrix_Main\Matrix_Struct.cpp(299,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\OOP\Matrix_Main\Matrix_Main\Matrix_Struct.cpp(300,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\OOP\Matrix_Main\Matrix_Main\Matrix_Struct.cpp(317,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\OOP\Matrix_Main\Matrix_Main\Matrix_Struct.cpp(320,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\OOP\Matrix_Main\Matrix_Main\Matrix_Struct.cpp(325,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\OOP\Matrix_Main\Matrix_Main\Matrix_Struct.cpp(326,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\OOP\Matrix_Main\Matrix_Main\Matrix_Struct.cpp(332,10): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\OOP\Matrix_Main\Matrix_Main\Matrix_Struct.cpp(333,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\OOP\Matrix_Main\Matrix_Main\Matrix_Struct.cpp(345,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\OOP\Matrix_Main\Matrix_Main\Matrix_Struct.cpp(346,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\OOP\Matrix_Main\Matrix_Main\Matrix_Struct.cpp(384,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\OOP\Matrix_Main\Matrix_Main\Matrix_Struct.cpp(385,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\OOP\Matrix_Main\Matrix_Main\Matrix_Struct.cpp(387,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\OOP\Matrix_Main\Matrix_Main\Matrix_Struct.cpp(277,10): warning C4101: pairsum: неиспользованная локальная переменная
+C:\Users\User\Desktop\OOP\Matrix_Main\Matrix_Main\Matrix_Struct.cpp(277,19): warning C4101: sqsum: неиспользованная локальная переменная
+C:\Users\User\Desktop\OOP\Matrix_Main\Matrix_Main\Matrix_Struct.cpp(434,20): warning C4267: return: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\User\Desktop\OOP\Matrix_Main\Matrix_Main\Matrix_Struct.cpp(439,23): warning C4267: return: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\User\Desktop\OOP\Matrix_Main\Matrix_Main\Matrix_Struct.cpp(445,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\OOP\Matrix_Main\Matrix_Main\Matrix_Struct.cpp(447,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\OOP\Matrix_Main\Matrix_Main\Matrix_Struct.cpp(525,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\OOP\Matrix_Main\Matrix_Main\Matrix_Struct.cpp(534,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\OOP\Matrix_Main\Matrix_Main\Matrix_Struct.cpp(535,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+C:\Users\User\Desktop\OOP\Matrix_Main\Matrix_Main\Matrix_Struct.cpp(430): warning C4715: Determinant_Func: значение возвращается не при всех путях выполнения
+  Matrix_Main.vcxproj -> C:\Users\User\Desktop\OOP\Matrix_Main\x64\Debug\Matrix_Main.exe
